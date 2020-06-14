@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang=""zh-tw>
+<head>
+<title>期末作業</title>
+<meta charset="utf-8>
+<body>
+<a href="2nd.html">第二頁</a>
+
+<a href="3nd.html">第三頁</a>
+
+<a href="4nd.html">第四頁</a>
+
+<a href="5nd.html">第五頁</a>
+
+</body>
+</head>
+</html>
